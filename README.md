@@ -23,4 +23,4 @@
 - [ ] learn data types
 - [ ] learn loops
 # for learning new things 
-[use the link] (https://github.com/shayanalishaikh/Third_repo/edit/main/README.md)
+[use the link](https://github.com/shayanalishaikh/Third_repo/edit/main/README.md)
